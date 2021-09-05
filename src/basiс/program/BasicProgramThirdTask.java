@@ -1,4 +1,4 @@
-package basiс_program;
+package basiс.program;
 
 public class BasicProgramThirdTask {
     public static void main(String[] args) {
